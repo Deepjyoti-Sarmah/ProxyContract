@@ -1,0 +1,2 @@
+proxy1 = " 0x2Aca39cD16bd82eAa4Fe5B381bE6D86588D365bC"
+gnosisMultisigAddress = "0xE025f4cCc7915E84aea48d9baCcb1C0Dc9746584"
